@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "evs-betterend:vertical_azure_jadestone_slab",
+        "evs-betterend:vertical_azure_jadestone_brick_slab",
+        "evs-betterend:vertical_dragon_bone_slab",
+        "evs-betterend:vertical_flavolite_slab",
+        "evs-betterend:vertical_flavolite_brick_slab",
+        "evs-betterend:vertical_sandy_jadestone_slab",
+        "evs-betterend:vertical_sandy_jadestone_brick_slab",
+        "evs-betterend:vertical_smaragdant_slab",
+        "evs-betterend:vertical_smaragdant_brick_slab",
+        "evs-betterend:vertical_sulphuric_rock_slab",
+        "evs-betterend:vertical_sulphuric_rock_brick_slab",
+        "evs-betterend:vertical_terminite_slab",
+        "evs-betterend:vertical_thallasium_slab",
+        "evs-betterend:vertical_umbralith_slab",
+        "evs-betterend:vertical_umbralith_brick_slab",
+        "evs-betterend:vertical_violecite_slab",
+        "evs-betterend:vertical_violecite_brick_slab",
+        "evs-betterend:vertical_virid_jadestone_slab",
+        "evs-betterend:vertical_virid_jadestone_brick_slab"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["#", "#", "#"],
+    "key": {
+        "#": {
+            "item": "betterend:umbrella_tree_planks"
+        }
+    },
+    "result": {
+        "item": "enchanted-vertical-slabs:vertical_umbrella_tree_slab",
+        "count": 6
+    }
+}
