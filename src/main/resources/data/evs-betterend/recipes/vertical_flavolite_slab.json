@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:flavolite"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_flavolite_slab",
+        "item": "evs-betterend:vertical_flavolite_slab",
         "count": 6
     }
 }

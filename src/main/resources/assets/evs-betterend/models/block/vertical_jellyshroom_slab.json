@@ -1,6 +1,6 @@
 {
-	"parent": "enchanted-vertical-slabs:block/vertical_slab_all",
-	"textures": {
-		"all": "betterend:block/jellyshroom_planks"
-	}
+    "parent": "evs-betterend:block/vertical_slab_all",
+    "textures": {
+        "all": "betterend:block/jellyshroom_planks"
+    }
 }

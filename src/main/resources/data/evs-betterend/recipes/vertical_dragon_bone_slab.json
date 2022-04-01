@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:dragon_bone_block"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_dragon_bone_slab",
+        "item": "evs-betterend:vertical_dragon_bone_slab",
         "count": 6
     }
 }

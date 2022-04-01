@@ -1,6 +1,6 @@
 {
-	"parent": "enchanted-vertical-slabs:block/vertical_slab_all",
-	"textures": {
-		"all": "betterend:block/sulphuric_rock_bricks"
-	}
+    "parent": "evs-betterend:block/vertical_slab_all",
+    "textures": {
+        "all": "betterend:block/sulphuric_rock_bricks"
+    }
 }

@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:jellyshroom_planks"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_jellyshroom_slab",
+        "item": "evs-betterend:vertical_jellyshroom_slab",
         "count": 6
     }
 }

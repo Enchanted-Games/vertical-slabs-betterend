@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:sandy_jadestone"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_sandy_jadestone_slab",
+        "item": "evs-betterend:vertical_sandy_jadestone_slab",
         "count": 6
     }
 }

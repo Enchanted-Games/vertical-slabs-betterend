@@ -7,7 +7,7 @@
     "description": "A simple, vanilla-like mod that adds Vertical Slabs to Minecraft - BetterEnd edition.\nCompatibility with Better End thanks to Just__Ju_\n  This mod is now standalone! You do not need the main mod to be installed though it is recommended. BetterEnd should also be installed so that the slabs show up correctly.",
     "authors": ["Enchanted Games [programming]", "Just__Ju_ [better end compatibility]"],
     "contact": {
-        "homepage": "https://verticalslabs.enchanted.games",
+        "homepage": "https://verticalslabs.enchanted.games/index.html?from=betterend",
         "sources": "https://github.com/Enchanted-Games/vertical-slabs",
         "issues": "https://github.com/Enchanted-Games/vertical-slabs/issues"
     },

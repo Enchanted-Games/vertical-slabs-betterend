@@ -9,16 +9,12 @@ import org.apache.logging.log4j.Logger;
 
 public class VerticalSlabsBetterend implements ModInitializer{
 
-    // TODO
-    // make neon catus have np shading on model
-    // same with smaragdant blocks
-
     // mod id
     public static final String MOD_ID = "evs-betterend";
     public static final String loggerID = "[" + MOD_ID + "] ";
     public static String minecraftCurrentVersion = MinecraftVersion.CURRENT.getReleaseTarget();
     // logger
-    public static final Logger LOGGER = LogManager.getLogger("Enchanted Vertical Slabs - Betterend addon");
+    public static final Logger LOGGER = LogManager.getLogger("Enchanted Vertical Slabs - Betterend edition");
 
     @Override
     public void onInitialize() {

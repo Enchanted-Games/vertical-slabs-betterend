@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:umbralith_bricks"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_umbralith_brick_slab",
+        "item": "evs-betterend:vertical_umbralith_brick_slab",
         "count": 6
     }
 }

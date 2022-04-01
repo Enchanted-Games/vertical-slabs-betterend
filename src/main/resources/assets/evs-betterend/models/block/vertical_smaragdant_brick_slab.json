@@ -1,6 +1,11 @@
 {
-	"parent": "enchanted-vertical-slabs:block/vertical_slab_all",
-	"textures": {
-		"all": "betterend:block/smaragdant_crystal_bricks"
-	}
+    "parent": "evs-betterend:block/vertical_slab_no_shade",
+    "textures": {
+        "north": "betterend:block/smaragdant_crystal_bricks",
+        "east": "betterend:block/smaragdant_crystal_bricks",
+        "south": "betterend:block/smaragdant_crystal_bricks",
+        "west": "betterend:block/smaragdant_crystal_bricks",
+        "up": "betterend:block/smaragdant_crystal_bricks",
+        "down": "betterend:block/smaragdant_crystal_bricks"
+    }
 }

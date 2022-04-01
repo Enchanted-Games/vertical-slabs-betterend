@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:mossy_glowshroom_planks"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_mossy_glowshroom_slab",
+        "item": "evs-betterend:vertical_mossy_glowshroom_slab",
         "count": 6
     }
 }

@@ -13,7 +13,7 @@
                             "conditions": [
                                 {
                                     "condition": "minecraft:block_state_property",
-                                    "block": "enchanted-vertical-slabs:vertical_umbrella_tree_slab",
+                                    "block": "evs-betterend:vertical_umbrella_tree_slab",
                                     "properties": {
                                         "single_slab": "false"
                                     }
@@ -26,7 +26,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "enchanted-vertical-slabs:vertical_umbrella_tree_slab"
+                    "name": "evs-betterend:vertical_umbrella_tree_slab"
                 }
             ]
         }

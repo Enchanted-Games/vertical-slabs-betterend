@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:virid_jadestone_bricks"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_virid_jadestone_brick_slab",
+        "item": "evs-betterend:vertical_virid_jadestone_brick_slab",
         "count": 6
     }
 }

@@ -1,6 +1,6 @@
 {
-	"parent": "enchanted-vertical-slabs:block/vertical_slab_all",
-	"textures": {
-		"all": "betterend:block/terminite_tile"
-	}
+    "parent": "evs-betterend:block/vertical_slab_all",
+    "textures": {
+        "all": "betterend:block/terminite_tile"
+    }
 }

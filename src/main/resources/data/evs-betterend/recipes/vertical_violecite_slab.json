@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:violecite"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_violecite_slab",
+        "item": "evs-betterend:vertical_violecite_slab",
         "count": 6
     }
 }

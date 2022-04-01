@@ -1,6 +1,6 @@
 {
-	"parent": "enchanted-vertical-slabs:block/vertical_slab_all",
-	"textures": {
-		"all": "betterend:block/umbralith"
-	}
+    "parent": "evs-betterend:block/vertical_slab_all",
+    "textures": {
+        "all": "betterend:block/umbralith"
+    }
 }

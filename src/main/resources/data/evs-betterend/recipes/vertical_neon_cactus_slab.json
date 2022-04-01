@@ -1,17 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#",
-        "#",
-        "#"
-    ],
+    "pattern": ["#", "#", "#"],
     "key": {
         "#": {
             "item": "betterend:neon_cactus_block"
         }
     },
     "result": {
-        "item": "enchanted-vertical-slabs:vertical_neon_cactus_slab",
+        "item": "evs-betterend:vertical_neon_cactus_slab",
         "count": 6
     }
 }
