@@ -3,3 +3,6 @@ A simple, vanilla-like mod that adds BetterEnd vertical slabs to Minecraft. They
 
  - Any BetterEnd vertical slabs made in v1.3 of the main mod may not be compatible with *Enchanted Vertical Slabs - BetterEnd Edition*. Please make a backup if you are planning on upgrading.
  - The seperating will make the mod easier to maintain and also fixes some issues with error spam in the logs. It will also make it easier to create more compatibility mods in the future.
+
+## Some bugs fixed in the seperating:
+- Some blocks including Neon Cactus Slabs and Smaragdant Slabs now have correct textures and block properties (light levels and sounds)
