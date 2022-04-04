@@ -1,20 +1,33 @@
 package games.enchanted.addons.betterEnd;
 
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import games.enchanted.VerticalSlabsBetterend;
+import games.enchanted.registry.ModFlammableBlocks;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
 
 public class BetterendAddon {
-
-    public static final ItemGroup VERTICAL_SLABS_BETTEREND_GROUP = null;
+    public static final Logger LOGGER = LogManager.getLogger("Enchanted Vertical Slabs - Betterend edition");
 
     public static void build() {
         
         // registers betterend slabs and their items
-        BetterendItems.registerItems();
+        LOGGER.info("blocks");
         BetterendBlocks.registerBlocks();
+        LOGGER.info("blocks done");
+        LOGGER.info("items");
+        BetterendItems.registerItems();
+        LOGGER.info("items done");
+        
+        // registers flammable blocks
+        LOGGER.info("flammable");
+        ModFlammableBlocks.registerFlammables();
+        LOGGER.info("flammable done");
 
         // Created item group for betterend stuff
         @SuppressWarnings("unused")
@@ -58,6 +71,8 @@ public class BetterendAddon {
 
             }
         ).build();
+        
+        LOGGER.info("addon done");
 
     }
 }
