@@ -25,7 +25,7 @@ public class VerticalSlabsBetterend implements ModInitializer{
         BetterendAddon.build();
 
         // logs to console that the mod is ready
-        LOGGER.info(loggerID + "Enchanted Vertical Slabs Betterend addon initialized!");
+        LOGGER.info(loggerID + "Enchanted Vertical Slabs - BetterEnd Edition initialized!");
     }
 
 }

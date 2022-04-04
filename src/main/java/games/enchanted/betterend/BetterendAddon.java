@@ -17,17 +17,11 @@ public class BetterendAddon {
     public static void build() {
         
         // registers betterend slabs and their items
-        LOGGER.info("blocks");
         BetterendBlocks.registerBlocks();
-        LOGGER.info("blocks done");
-        LOGGER.info("items");
         BetterendItems.registerItems();
-        LOGGER.info("items done");
-        
+
         // registers flammable blocks
-        LOGGER.info("flammable");
         ModFlammableBlocks.registerFlammables();
-        LOGGER.info("flammable done");
 
         // Created item group for betterend stuff
         @SuppressWarnings("unused")
@@ -71,8 +65,6 @@ public class BetterendAddon {
 
             }
         ).build();
-        
-        LOGGER.info("addon done");
 
     }
 }
