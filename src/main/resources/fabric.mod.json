@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "evs-betterend",
-    "version": "1.0.0",
+    "version": "1.1.0",
 
     "name": "Enchanted Vertical Slabs - BetterEnd Edition",
     "description": "A simple, vanilla-like mod that adds Vertical Slabs to Minecraft - BetterEnd Edition.\nCompatibility with Better End thanks to Just__Ju_\n  This mod is now standalone! You do not need the main mod to be installed though it is recommended. BetterEnd should also be installed so that the slabs show up correctly.",
