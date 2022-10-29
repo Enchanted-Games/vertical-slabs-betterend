@@ -1,4 +1,8 @@
 # Enchanted Vertical Slabs - BetterEnd Edition
+
+# This mod is no longer being updated. It may still continue to work but I won't be updating it to new versions or adding new content until further notice. 
+## This only applied to this sub mod, the main mod will be unaffected
+
 A simple, vanilla-like mod that adds BetterEnd vertical slabs to Minecraft. They can be crafted the same way a normal slab can in a crafting table just vertically instead of horizontally. You do not need [the main mod](https://github.com/Enchanted-Games/vertical-slabs) installed though it is recommended. You must install BetterEnd alongside *Enchanted Vertical Slabs - BetterEnd Edition* otherwise the vertical slabs will not show up correctly. This mod is a fabric mod that requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to function.
 
  - Any BetterEnd vertical slabs made in v1.3 of the main mod may not be compatible with *Enchanted Vertical Slabs - BetterEnd Edition*. Please make a backup if you are planning on upgrading.
